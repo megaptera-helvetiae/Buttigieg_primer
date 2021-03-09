@@ -7,3 +7,8 @@
 - Then, we deleted the extra branch. Clean up after yourself. 
 - Locally: "git branch", "git checkout main"
 On the second day, we will practice this all.
+
+## Questions:
+- I don't see Pier's repository in my GitHub accoount.
+- Can all collaborators merge branches?
+- When you "checkout" a new fork, can you give it any name?
